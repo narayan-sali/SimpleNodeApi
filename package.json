@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "simplenodeapi",
+  "description": "this is sample node application which is deployed in aws",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
