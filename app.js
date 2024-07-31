@@ -6,9 +6,9 @@ const port = 3000;
 
 // Dummy data
 const employee = [
-    { id: 1, name: 'Narayan S', email: 'narayan@prainsys.com' },
-    { id: 2, name: 'Naveen M', email: 'naveen@prainsys.com'   },
-    { id: 3, name: 'Akshay A K ', email: 'akshay@parinsys.com' }
+    { id: 1, name: 'Narayan S', email: 'narayan@prainsys.com', role: "CEO" },
+    { id: 2, name: 'Naveen M', email: 'naveen@prainsys.com' ,role: "CFO"  },
+    { id: 3, name: 'Akshay A K ', email: 'akshay@parinsys.com',role: "COO" }
 ];
 
 // Routes
